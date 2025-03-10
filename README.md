@@ -1,7 +1,5 @@
 # godsa
-This repository consists of the coding problems related to Data structure and algorithms using golang gathered and curated from across different coding platforms.
-
-Welcome to the DSA Problem Solutions Repository! This repository contains solutions to various Data Structures and Algorithms (DSA) problems from different platforms like LeetCode, HackerRank, Codeforces, and more mainly on goLang ! Happy coding gopher!!
+\Welcome to the DSA Problem Solutions Repository! This repository contains solutions to various Data Structures and Algorithms (DSA) problems from different platforms like LeetCode, HackerRank, Codeforces, and more mainly on goLang ! Happy coding gopher!!
 
 ## Table of Contents
 
