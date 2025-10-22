@@ -1,5 +1,6 @@
 package basics
 
+//problem link : https://www.geeksforgeeks.org/dsa/maximum-and-minimum-in-an-array/ 
 import (
 	"fmt"
 	"sort"
